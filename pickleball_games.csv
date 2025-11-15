@@ -1,0 +1,13 @@
+game_id,team1_player1,team1_player2,team2_player1,team2_player2,team1_score,team2_score
+g1,player1,player2,player3,player4,11,7
+g2,player5,player6,player7,player8,9,11
+g3,player1,player2,player5,player6,15,13
+g4,player3,player4,player7,player8,11,9
+g5,player1,player2,player7,player8,9,11
+g6,player3,player4,player5,player6,13,11
+g7,player1,player2,player3,player4,12,10
+g8,player5,player6,player7,player8,11,5
+g9,player1,player2,player5,player6,11,9
+g10,player3,player4,player7,player8,14,12
+g11,player1,player2,player7,player8,11,4
+g12,player3,player4,player5,player6,9,11
