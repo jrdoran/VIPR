@@ -55,7 +55,7 @@ for g in games:
     game = g["game_num"]
     team1_won = g["team1_won"]
 
-    print(f"\n=== Game {game} ===")
+    print(f"\n=== Game {game} ===") 
 
     print(f"Before | "
           f"T1: Ra={team1['Ra']:.3f}, Rb={team1['Rb']:.3f}   "
