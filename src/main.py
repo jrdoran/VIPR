@@ -1,4 +1,4 @@
-# --- Initial ratings ---
+# --- Initial ratings test  ---
 team1 = {"Ra": 5.000, "Rb": 4.000}
 team2 = {"Rc": 4.500, "Rd": 4.500}
 
@@ -21,7 +21,7 @@ def combined_rating(r1, r2, crf):
         return avg
     weakest = min(r1, r2)
     return avg - (avg - weakest) * (crf / 100)
-
+    
 
 def rating_delta(team1, team2, crf, scale, curve):
     F = combined_rating(team1["Ra"], team1["Rb"], crf)
